@@ -3,5 +3,5 @@
 ### 你好，世界 👋
 
 - :orange_book: Focusing on Frontend
-- :ram: Founder the ObjCCN
+- :ram: Modest and hardWorking
 - :meat_on_bone: Meat lover
