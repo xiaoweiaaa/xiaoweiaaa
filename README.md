@@ -4,4 +4,4 @@
 
 - :orange_book: Focusing on Frontend
 - :ram: Modest and hardWorking
-- :meat_on_bone: Meat lover
+
