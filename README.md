@@ -3,5 +3,4 @@
 ### 你好，世界 👋
 
 - :orange_book: Focusing on Frontend
-- :ram: Modest and hardWorking
 
